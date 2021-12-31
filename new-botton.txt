@@ -1,0 +1,7 @@
+button type=button onclick=Evento()Eventobutton
+
+script
+    function Evento(){
+        alert('evento funcionando')
+    }
+script

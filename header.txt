@@ -1,0 +1,4 @@
+<header>
+  <h1>Título da Página Principal</h1>
+  <img src="mdn-logo-sm.png" alt="MDN logo">
+</header>
