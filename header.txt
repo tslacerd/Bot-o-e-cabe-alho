@@ -2,3 +2,8 @@
   <h1>Título da Página Principal</h1>
   <img src="mdn-logo-sm.png" alt="MDN logo">
 </header>
+
+versão 2 
+<header>
+<h1>Curso Senai Novos Horizontes</h1>
+
